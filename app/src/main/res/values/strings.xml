@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SQLite CRUD</string>
+    <string name="name">Name : </string>
+    <string name="course">Course : </string>
+    <string name="email">Email : </string>
+    <string name="phone">Phone : </string>
+    <string name="h_name">Enter Name</string>
+    <string name="h_course">Enter Course</string>
+    <string name="h_email">Enter Email</string>
+    <string name="h_phone">Enter Phone No.</string>
+    <string name="store">Store</string>
+    <string name="add">Add New Teacher</string>
+    <string name="mod">Modify</string>
+    <string name="inst_text">To Edit,\nTap on the Items from the List</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
